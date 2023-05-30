@@ -11,7 +11,6 @@ import lombok.ToString;
 @ToString
 public class Admision extends Usuario{
 
-
 	public void generarEvaluacionPostulacion() {
 
 	}
